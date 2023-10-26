@@ -91,6 +91,10 @@ body {
 	font-size: 14px;
 }
 
+.bg-black {
+	background-color: #000;
+	border-radius: 50%;
+}
 
 .title{
 	text-align: center;
